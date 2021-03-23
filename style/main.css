@@ -40,7 +40,7 @@ header nav a:hover {
 /*Coisas Relacionadas ao filme principal*/
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa-principal.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/capa-principal.jpg');
 
     height: 400px;
     background-size: cover;
